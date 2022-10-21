@@ -18,7 +18,7 @@ import ElectronVersions from '/@/components/ElectronVersions.vue';
       href="https://github.com/cawa-93/vite-electron-builder"
       target="_blank"
     >
-      vite-electron-builder documentation
+      documentação do vite-electron-builder
     </a>
     .
   </p>
